@@ -1,0 +1,3 @@
+include ':artifactSDK'
+include ':app'
+rootProject.name = "ReleaseArtifactDemo"
